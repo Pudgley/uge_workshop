@@ -1,3 +1,19 @@
+#git ll - will long list changes
+
+git status shows the staging area
+git log is the history of commits - ID, timestamp, changes, signature, Message
+
+
+
+modify/add/commit
+
+modify a file
+add to staging area
+commit
+
+remove file - rm
+
+
 #Suite this file has all my history since the dawn of time - or dawn of this machine.
 #Starting from the bottom...i have endited out the repeated crap!
 
