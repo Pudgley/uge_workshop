@@ -1,0 +1,108 @@
+#Suite this file has all my history since the dawn of time - or dawn of this machine.
+#Starting from the bottom...i have endited out the repeated crap!
+
+history | sort | less
+less --help
+less -h --max
+less -h
+man man
+history | less
+history | less h
+history
+h less
+less H
+H
+history | less
+history | more
+history | moer
+clear
+cls
+ls
+cd
+cd /home/pudge/Documents/Cool/
+cd pudge
+cd /clear
+cd ..
+cd #Deleted Repeated Command
+ls
+#Deleted Repeated Command
+cd Downloads
+ls -a
+ls -lt
+ls -t
+touch yourfile.txt
+#Deleted Repeated Command
+mkdir Cool
+cd Documents
+ll
+man gparted
+man
+sudo gparted
+gparted
+sudo apt-get install gparted
+sudo apt-get gparted
+cd ~
+less fstab
+cat fstab
+cd /etc
+cd /
+cd media
+cd /home
+cd /usr
+ls -l --author
+#Deleted Repeated CommandZ
+ls
+man ls
+ls man
+cd
+ls --author
+ls -ltr
+ls -l
+ls t
+ls -r
+ls -tr
+ls -lr
+ls lt
+ls -t -l
+ls - t
+pwd
+cd usr
+cd mnt
+cd tmp
+cd ..\
+ls
+git version
+echo $EDITOR
+subl
+ls -axX
+ls - G
+#Deleted Repeated Command
+sudo apt-get install ruby
+curl -fsSL http://git.io/Ak1LNQ | sh
+curl -fsSL http://git.io/FzAR | ruby
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'rsv1@hotmail.com'
+git config --global user.name 'Scott Vogel'
+git --version
+sudo apt-get install -y git
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+sudo apt-get install -y sublime-text-installer
+curl -fSSL http://git.io/beJs | ruby
+sudo apt-get check
+#Deleted Repeated Command
+fish_update_completions
+sudo apt-get install http://git.io/beJs
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get update
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+#Deleted Repeated Command
+sudo apt-add-repository -y ppa:fish-shell/release2
+ls -G
+sudo apt-get install -y curl
+uname
+sudo apt-get update && sudo apt-get upgrade
